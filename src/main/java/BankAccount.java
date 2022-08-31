@@ -6,10 +6,10 @@ public class BankAccount {
     /**
      * Initializes a new BankAccount.
      *
-     * @param in_name The name of the account owner.
+     * @param in_name           The name of the account owner.
      * @param in_accountBalance The starting balance for the account.
-     */    public BankAccount(String in_name, double in_accountBalance)
-    {
+     */
+    public BankAccount(String in_name, double in_accountBalance) {
 
         // write your code above and remove the line below
         throw new UnsupportedOperationException();
